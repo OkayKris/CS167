@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e672825c-2567-4bfd-a032-972ba2d77cae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bPtbaXQr8fHdtbp5DGy4o1tnVw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.comparison">
+    <configuration name="avg-bytes-by-code" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.kdec001.App" />
+      <module name="kdec001_lab5" />
+      <option name="PROGRAM_PARAMETERS" value="avg-bytes-by-code nasa_19950801.tsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.kdec001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comparison" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.kdec001.App" />
+      <module name="kdec001_lab5" />
+      <option name="PROGRAM_PARAMETERS" value="comparison nasa_19950801.tsv 807295758" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.kdec001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="count-all" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.kdec001.App" />
+      <module name="kdec001_lab5" />
+      <option name="PROGRAM_PARAMETERS" value="count-all nasa_19950801.tsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.kdec001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="count-by-code" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.kdec001.App" />
+      <module name="kdec001_lab5" />
+      <option name="PROGRAM_PARAMETERS" value="count-by-code nasa_19950801.tsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.kdec001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sum-bytes-by-code" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.kdec001.App" />
+      <module name="kdec001_lab5" />
+      <option name="PROGRAM_PARAMETERS" value="sum-bytes-by-code nasa_19950801.tsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.kdec001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="time-filter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.kdec001.App" />
+      <module name="kdec001_lab5" />
+      <option name="PROGRAM_PARAMETERS" value="time-filter nasa_19950801.tsv 807274014 807283738" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.kdec001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="top-host" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.ucr.cs.cs167.kdec001.App" />
+      <module name="kdec001_lab5" />
+      <option name="PROGRAM_PARAMETERS" value="top-host 19950630.23-19950801.00.tsv" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucr.cs.cs167.kdec001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.time-filter" />
+      <item itemvalue="Application.comparison" />
+      <item itemvalue="Application.count-by-code" />
+      <item itemvalue="Application.sum-bytes-by-code" />
+      <item itemvalue="Application.avg-bytes-by-code" />
+      <item itemvalue="Application.top-host" />
+      <item itemvalue="Application.count-all" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.count-all" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e672825c-2567-4bfd-a032-972ba2d77cae" name="Default Changelist" comment="" />
+      <created>1588545628724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588545628724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588578665078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1176" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588554495892" />
+    <state x="744" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588578665078" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588632582721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588554503951" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588632582721" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588632582721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588554503951" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588632582721" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588632582721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588554503951" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588632582721" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588632582721">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588554503951" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588632582721" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1588584103330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588584103330" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1588584103329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588584103329" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1588584103329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588584103329" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1588584103329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588584103329" />
+    <state x="-1480" y="94" key="SettingsEditor" timestamp="1588546386637">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588546386637" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588632022612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1264" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1588545632217" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588632022612" />
+  </component>
+</project>
