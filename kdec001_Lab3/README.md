@@ -1,7 +1,7 @@
 
 
 # Lab 3
-
+ 
 ## Student information
 * Full name: Kristian De Castro
 * E-mail: kdec001@ucr.edu
